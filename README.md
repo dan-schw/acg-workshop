@@ -1,1 +1,2 @@
-# acg-workshop
+# ACG workshop
+AWS + ReactJS
